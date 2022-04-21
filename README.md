@@ -13,3 +13,8 @@
 ## Cursos aprobados 
 - Hidroclimatología
 - Ánalisis de datos geográficos I y II
+- Fundamentos de física
+
+![](https://www.iagua.es/sites/default/files/styles/thumbnail-830x455/public/hidrologia_0.jpg?itok=cIV9bu4g)
+
+## Experiencia
