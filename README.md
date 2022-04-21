@@ -3,3 +3,13 @@
 - Estudiante del curso de Procesamiento de Datos geograficos
 
 - *Conocimiento en SIG y R*
+
+## Áreas de interés
+- Hidrología
+- Climatología
+- Ánalisis de datos
+- Ciencias puras
+
+## Cursos aprobados 
+- Hidroclimatología
+- Ánalisis de datos geográficos I y II
