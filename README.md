@@ -3,4 +3,5 @@
 - Estudiante del curso de Procesamiento de Datos geograficos
 
 Foto perfil
+
 ![](https://www.cuantafauna.com/otros/cuando-se-activa-la-camara-frontal-por-accidente)
