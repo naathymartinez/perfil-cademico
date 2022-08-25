@@ -2,7 +2,7 @@
 - Estudiante de la carrera de Geografía en la [Universidad de Costa Rica](https://www.ucr.ac.cr/)  
 - Estudiante del curso de Procesamiento de Datos geograficos
 
-- *Conocimiento en SIG y R*
+- *Conocimiento en SIG, R y Programación Básica en python*
 
 ## Áreas de interés
 - Hidrología
