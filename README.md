@@ -17,11 +17,6 @@
 
 ![](https://www.iagua.es/sites/default/files/styles/thumbnail-830x455/public/hidrologia_0.jpg?itok=cIV9bu4g)
 
-## Experiencia
-- Servicio al cliente
-- Programación Basica en Python y Rstudio
-
-![](https://concepto.de/wp-content/uploads/2014/08/programacion-2-e1551291144973.jpg)
 
 ## Idiomas
 - Inglés B2
